@@ -3,7 +3,7 @@
 #include <cmath>
 #include <limits>
 #include <fstream>
-#include <string> ///////////
+#include <string>
 using namespace std;
 
 struct InputData
