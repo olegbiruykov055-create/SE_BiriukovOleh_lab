@@ -5,11 +5,7 @@
 #include <fstream> 
 #include <string> 
 using namespace std; 
-////////////////////////////
 
-/// <summary>
-/// ///
-/// </summary>
 struct InputData
 {
     double n;
