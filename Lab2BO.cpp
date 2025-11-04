@@ -4,7 +4,7 @@
 #include <limits>
 #include <fstream> 
 #include <string> 
-using namespace std; 
+using namespace std;
 
 struct InputData
 {
@@ -260,4 +260,4 @@ int main()
             cout << "[ERROR] Invalid menu choice!\n";
         }
     }
-} 
+}
